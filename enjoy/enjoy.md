@@ -6,7 +6,10 @@
 
 # video palyer
 
-- PotPlayer (支持win)
-- IINA（支持win,mac）
+- **PotPlayer**  (支持win)
+- **IINA**（支持win,mac）
+- **MX Player** （android）
+
+
 
  
