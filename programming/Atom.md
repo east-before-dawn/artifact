@@ -48,16 +48,21 @@ npm config set registry https://registry.npm.taobao.org
 保存文件后可通过 `apm install --check` 命令测试是否可以正常安装，然后就可以去 `Atom` 
 里正常安装了 
 
-##插件
+## 插件
 
 ### 汉化
 
 - simplified-chinese-menu
 
+### 主题
+
+- #### [atom-material-ui](https://atom.io/themes/atom-material-ui)
+
 ### 代码美化
 
 - atom-beautify
 - pretty-json
+- atom-ctags
 
 ### 预览优化
 
@@ -78,6 +83,10 @@ npm config set registry https://registry.npm.taobao.org
   - **minimap-cursorline**在小地图上显示光标所在行以颜色区分显示。
   - **minimap-selection**在小地图上显示选中的块状内容。
 
+- **symbols-tree-view**
+
+  ![](https://i.github-camo.com/625e6d10dbc90e14696852bf0d4db63b4e1810b2/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f786e64636e2f73796d626f6c732d747265652d766965772f6d61737465722f73637265656e636173742e6769663f7261773d74727565)
+
 ### 代码补全
 
 - kite 基于人工智能自动补全
@@ -85,6 +94,14 @@ npm config set registry https://registry.npm.taobao.org
 - autocomplete-cmake
 - autocomplete-python
 - autocomplete-java
+
+### 路径补全
+
+- autocomplete-paths
+
+### 意向猜测
+
+- intentions
 
 ### 语法验证纠错
 
@@ -106,6 +123,10 @@ npm config set registry https://registry.npm.taobao.org
 - logo-file-icons
 - tree-view-sort
 
+### 工具栏
+
+- tool-bar
+
 ### XML
 
 - autocomplete-xml
@@ -113,7 +134,8 @@ npm config set registry https://registry.npm.taobao.org
 
 ### html
 
-- open-in-browser
+- open-in-browser       快速打开默认浏览器查看html
+- atom-html-preview   实时预览html
 
 ### 正则式
 
