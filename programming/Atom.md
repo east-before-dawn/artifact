@@ -22,7 +22,7 @@
 mkdir .atom
 ```
 
-![](/Users/oushuai/Desktop/leaf/github/artifact/programming/Atom.assets/5797958-d517337caa49c051.gif)
+![](Atom.assets/mkdiratom.gif)
 
 ## 切换国内源
 
