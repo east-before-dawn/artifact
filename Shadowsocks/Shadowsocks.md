@@ -21,11 +21,13 @@
 
 - [Outline](https://getoutline.org/zh-CN/home)
 
+## Shadowsocks client
 
-
-## user-rule.txt
+### user-rule.txt
 
 通常将自定义的规则写入到 user-rule.txt 中，而不是 pac.txt
 
-## 
+## plugins
+
+- Chrome SwitchyOmega
 
