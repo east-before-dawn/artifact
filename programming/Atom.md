@@ -45,8 +45,7 @@ npm config set registry https://registry.npm.taobao.org
 
 3.  export PATH=$PATH:/usr/local/git/bin:/usr/local/bin` to ensure that `/usr/local/bin` in in my `PATH
 
-保存文件后可通过 `apm install --check` 命令测试是否可以正常安装，然后就可以去 `Atom` 
-里正常安装了 
+保存文件后可通过 `apm install --check` 命令测试是否可以正常安装，然后就可以去 `Atom` 里正常安装了 
 
 ## 插件
 

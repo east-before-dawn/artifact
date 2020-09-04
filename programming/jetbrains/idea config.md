@@ -8,13 +8,13 @@
 
 - [Changing IDE default directories used for config, plugins, and caches storage](https://intellij-support.jetbrains.com/hc/en-us/articles/207240985-Changing-IDE-default-directories-used-for-config-plugins-and-caches-storage)
 
-# 默认插件安装目录
+## 默认插件安装目录
 
 ```
 C:\Users\Administrator\.IntelliJIdea2019.2\config\plugins
 ```
 
-# idea.properties 核心配置文件
+## idea.properties 核心配置文件
 
 IDEA_HOME\bin\idea.properties
 
