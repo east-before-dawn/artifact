@@ -4,11 +4,17 @@
 
 ## HTTP HTTPS
 
+### 监听
+
 - **Fiddler**
 - **Charles**
 - [**mitmproxy**](https://mitmproxy.org/)
 - **mitmdump**
 - **mitmweb**
+
+### 模拟请求
+
+- Postman  
 
 ## app自动化软件
 
