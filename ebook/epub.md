@@ -4,8 +4,8 @@
 
 ## epub reader
 
+- EPUB READER(chrome plus)
 - calibre
 - 越飞
-- EPUB READER(chrome plus)
-- Lithium
+- Lithium （android）
 
