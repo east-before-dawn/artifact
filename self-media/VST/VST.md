@@ -13,3 +13,6 @@ VST（Virtual Studio Techonology）是由以音序软件闻名的德国公司Ste
 ## VST 资源下载
 
 - https://www.g200kg.com/jp/software/
+- https://www.kvraudio.com/plugins/the-newest-plugins
+- https://www.bianquzyk.com/
+
